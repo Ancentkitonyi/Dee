@@ -20,13 +20,7 @@
 body{
   background-color: #000;
 }
-.image img{
-  margin: 25% 40% 0% 40%;
-  height: 200px;
-  width: 200px;
-  border-radius: 100%;
-  border: 3px solid #fff;
-}
+
 nav a{
   color: #fff;
 }
@@ -77,4 +71,7 @@ nav a{
 .txt{
   text-align: center;
   color: #fff;
+}
+.page-header{
+  text-align: center;
 }
